@@ -1,0 +1,3387 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 1400px) {
+	.container {
+		width: 1260px;
+	}
+
+ .navFix .swiper5{
+        width: 1260px;
+   }
+}
+
+@media screen and (min-width: 1540px) {
+	.container {
+		width: 1440px;
+	}
+
+.navFix .swiper5{
+        width: 1440px;
+   }
+
+
+}
+
+@media screen and (min-width:1201px) and (max-width:1400px) {
+	.container {
+		width: 1170px;
+	}
+
+    .navFix .swiper5{
+        width: 1170px;
+   }
+}
+
+@media screen and (max-width: 1540px) {
+	.nav ul li {
+		padding: 0 2.8%;
+	}
+	#full-width-slider .rsGCaption {
+		top: 30%;
+	}
+	#full-width-slider .rsGCaption h4 {
+		font-size: 42px;
+		margin: 0;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 30px;
+	}
+	#full-width-slider .rsGCaption a {
+		background-size: 45px;
+		padding: 20px 0 20px 60px;
+	}
+	#full-width-slider .rsGCaption a:hover:after {
+		left: 60px;
+	}
+	#full-width-slider1 .rsGCaption {
+		padding: 12px 0 20px;
+	}
+	#full-width-slider1 .rsGCaption h4 {
+		font-size: 26px;
+	}
+	#full-width-slider1 .rsGCaption p {
+		font-size: 16px;
+		line-height: 20px;
+		height: 40px;
+	}
+	/*.index-title .title {
+		font-size: 40px;
+	}*/
+	/*.scientific-text {
+		padding: 17px 30px 17px 15px;
+	}*/
+	/*.scientific-text h3 {
+		font-size: 18px;
+		line-height: 26px;
+		height: 78px;
+		margin: 0 0 7px;
+	}*/
+	/*.scientific-time {
+		padding: 13px 0 15px;
+	}*/
+	.scientific-time .date {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.scientific-time .month {
+		font-size: 23px;
+		line-height: 28px;
+	}
+	/*.scientific-box ul li {
+		margin-bottom: 21px;
+	}*/
+	.news-box {
+		margin-bottom: 95px;
+	}
+	.research_text {
+		margin: 25px 0 30px;
+	}
+	.publications-box ul li .publications-text h3 {
+		font-size: 22px;
+	}
+	.publications-box ul li .publications-img {
+		height: 380px;
+	}
+	.publications-box ul li .publications-text {
+		padding: 12px 0;
+	}
+	.publications-box ul li .publications-text p {
+		line-height: 26px;
+		height: 78px;
+	}
+	.research_text p {
+		font-size: 17px;
+	}
+	.banner-current {
+		font-size: 44px;
+	}
+	.banner-current p {
+		margin: 15px 20px 50px;
+	}
+	.gallery ul li .gallery-img {
+		height: 353px;
+	}
+	.people-key .people-key-img {
+		height: 380px;
+	}
+	.about-xinxi .xinxi-box .xinxi-title {
+		font-size: 22px;
+	}
+	.about-xinxi .xinxi-box img {
+		width: 44px;
+	}
+	.about-xinxi .xinxi-box.xinxi-map .xinxi-text {
+		background: #e1e1e1;
+		height: 220px;
+	}
+	.content-right-title h4 {
+		font-size: 26px;
+	}
+	.content-right-title .introduction {
+		font-size: 17px;
+	}
+	.content-right-title h4 {
+		font-size: 24px;
+	}
+	.content-left p {
+		font-size: 17px !important;
+		color: #666 !important;
+		line-height: 28px !important;
+	}
+
+ .content-left p span{
+     font-size: 17px !important;
+		color: #666 !important;
+		line-height: 28px !important;
+}
+
+ .content-left  span{
+     font-size: 17px !important;
+		color: #666 !important;
+		line-height: 28px !important;
+}
+	.content-right-funder h4 {
+		font-size: 22px;
+	}
+	.banner-current {
+		bottom: 50px;
+	}
+	.people-item ul li .people-item-text {
+		padding: 10px 0 8px;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 34px;
+		margin: 0 25px;
+	}
+	.people-item ul li .people-item-text .people-item-mailbox {
+		margin: 0 25px 5px;
+	}
+	.people-item ul li .people-item-text .people-item-more {
+		margin: 0 25px 5px;
+	}
+	.people-item.graduates ul li a {
+		padding: 23px 0px 0 17px;
+	}
+
+.people-item.graduates ul li .people-item-text .people-item-pro {
+    margin: 0 0 0 15px;
+}
+	.people-item.graduates ul li .people-item-text {
+		width: 61%;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-name {
+		font-size: 28px;
+                    margin: 0 0 3px 15px;
+	}
+
+.featuredswiper .swiper-slide .Featured_img {
+ 
+    height: 201px;
+}
+
+.content-right-title .content-right-img {
+    height: 320px;
+    height: 161px;
+}
+
+.content-right-funder p {
+    font-size: 17px;
+}
+
+.publications-title.navFix{
+   width: 945px;
+}
+
+.right-list-date.navFix{
+  width: 945px;
+}
+
+.left-nav .left-nav-padding.leftnavFix{
+   width:315px;
+}
+
+.people-item.graduates ul li .people-item-text .people-item-mailbox{
+   margin: 0 0px 6px 15px;
+}
+
+.people-item.graduates ul li .people-item-img {
+    margin-top: 10px;
+}
+
+.web-nav ul li{
+       min-width: 200px;
+}
+
+.people-item.graduates ul li .people-item-text .people-item-more {
+    margin: 0 0px 10px 15px;
+}
+
+}
+
+@media screen and (max-width: 1400px) {
+	.nav ul li {
+		padding: 0 2.5%;
+	}
+	#full-width-slider .rsGCaption {
+		top: 29%;
+	}
+	#full-width-slider .rsGCaption h4 {
+		font-size: 38px;
+		height: 48px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 28px;
+	}
+	#full-width-slider .rsGCaption a {
+		background-size: 35px;
+		padding: 12px 0 12px 48px;
+	}
+	#full-width-slider .rsGCaption a:hover:after {
+		left: 48px;
+	}
+	#full-width-slider .rsGCaption a:after {
+		bottom: 10px;
+	}
+	#full-width-slider1 .rsGCaption {
+		padding: 10px 0 15px;
+	}
+	#full-width-slider1 .rsGCaption h4 {
+		font-size: 24px;
+		margin: 0 30px 5px;
+	}
+	#full-width-slider1 .rsGCaption p {
+		margin: 0 30px;
+	}
+	.scientific-text {
+		padding: 21px 40px 21px 26px;
+		/*margin-right: 70px;*/
+	}
+	.scientific-text h3 {
+		font-size: 16px;
+		line-height: 24px;
+		height: 72px;
+		margin: 0 0 5px;
+	}
+	.scientific-time {
+		padding: 8px 0 12px;
+		width: 90px;
+		top: 20px;
+	}
+	.scientific-time .date {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.scientific-time .month {
+		font-size: 21px;
+		line-height: 26px;
+	}
+	.scientific-text .more {
+		font-size: 14px;
+	}
+	.publications-box ul li .publications-text h3 {
+		font-size: 24px;
+	}
+	.index-title .title {
+		font-size: 36px;
+	}
+	.research_text {
+		margin: 15px 0 30px;
+	}
+	.publications-box ul li .publications-img {
+		height: 357px;
+	}
+	.link {
+		margin-bottom: 30px;
+	}
+	.link ul li {
+		margin: 0 20px;
+	}
+	.footer {
+		padding: 0 0 35px;
+	}
+	.current-swiper {
+		width: 680px;
+		height: 418px;
+	}
+	.banner-current {
+		font-size: 40px;
+		bottom: 50px;
+	}
+	.banner-current p {
+		margin: 10px 20px 48px;
+		background-size: 33px;
+	}
+	.gallery ul li .gallery-img {
+		height: 327px;
+	}
+	.featuredswiper .swiper-slide .Featured_text .Featured_title {
+		font-size: 22px;
+	}
+	
+	.web-nav ul li {
+		min-width: 180px;
+		
+	}
+        
+.web-nav ul li a{
+      padding: 14px 8px;
+}
+	.gallery ul li .xinxi .date {
+		font-size: 22px;
+	}
+	.gallery ul li .xinxi .title {
+		font-size: 17px;
+		height: 48px;
+	}
+	.gallery ul li .xinxi {
+		margin: 8px 0 10px;
+	}
+	.gallery ul li {
+		float: left;
+		width: 47.2%;
+		/* margin: 20px 0 5px 2.8%;*/
+		margin: 20px 1.4% 5px 1.4%;
+	}
+	.item-title h4 {
+		font-size: 22px;
+	}
+	.item-title .more {
+		font-size: 14px;
+	}
+	.web-nav ul li a {
+		font-size: 18px;
+	}
+	.list-img ul li .pull-left a {
+		width: 290px;
+		height: 194px;
+	}
+	.list-img ul li .media-body {
+		padding: 0 10px;
+	}
+	.list-img ul li .media-body .media-heading {
+		margin: 17px 0 3px;
+	}
+	.left-nav .left-nav-box h2 {
+		font-size: 26px;
+	}
+	.featuredswiper .swiper-slide .Featured_img {
+		height: 185px;
+	}
+	.publications-title h5 {
+		font-size: 28px;
+	}
+	.publications ul li {
+		padding: 30px 40px 30px 15px;
+	}
+	.featuredswiper-title {
+		font-size: 26px;
+	}
+	.people .people-item .title {
+		font-size: 34px;
+	}
+
+.people .people-item .title-item{
+       font-size: 24px;
+    margin-top: 15px;
+}
+	.people-alumni ul li {
+		margin-bottom: 10px;
+	}
+	.people-alumni ul li a {
+		padding: 23px 0;
+                padding: 13px 0;
+	}
+        
+.people-alumni ul li a span{
+
+    margin-top: 2px;
+}
+
+
+	.people-key .title {
+		font-size: 34px;
+		margin-bottom: 20px;
+		margin-top: 10px;
+	}
+	.people-item ul li .people-item-text {
+		padding: 10px 0 9px;
+	}
+	people-item ul li .people-item-text .people-item-pro {
+		font-size: 18px;
+	}
+	.people-key .people-key-textbox .people-key-text {
+		padding: 7px 45px 15px;
+	}
+	.people-key .people-key-textbox .people-key-more {
+		margin-left: 40px;
+		margin-bottom: 35px;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 32px;
+		margin: 0 20px 0px;
+	}
+	.people-item ul li .people-item-text .people-item-abstract {
+		font-size: 17px;
+		line-height: 22px;
+               height: 44px;
+		margin: 0 20px 0px;
+	}
+	.people-item ul li .people-item-text .people-item-mailbox {
+		font-size: 17px;
+		margin: 0 20px 5px;
+	}
+	.people-item ul li .people-item-text .people-item-more {
+		font-size: 17px;
+		line-height: 26px;
+		margin: 0 20px 4px;
+	}
+	.people-key .people-key-textbox .people-key-text h3 {
+		font-size: 22px;
+	}
+	.people-item.graduates ul li a {
+		padding: 18px 13px 0 13px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-pro {
+		font-size: 16px;
+		margin: 0 0 0 15px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-name {
+		font-size: 26px;
+                /* font-size: 22px;*/
+		margin: 0 0 3px 15px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-mailbox {
+		font-size: 14px;
+		margin: 0 0px 12px 15px;
+                margin: 0 0px 7px 15px;
+	}
+
+       .people-item.graduates ul li .people-item-text .people-item-group{
+               font-size: 14px;
+		margin: 0 0px 0 15px;
+        }
+
+.people-item.graduates ul li .people-item-text .people-item-more{
+    margin: 0 0px 5px 15px;
+}
+	people-item.graduates ul li .people-item-text {
+		padding: 0 0 8px;
+	}
+	.people-item.graduates ul li .people-item-img {
+		margin-top: 3px;
+               margin-top: 8px;
+	}
+	.people-key .people-key-img {
+		height: 352px;
+	}
+	.people-alumni .title {
+		font-size: 34px;
+	}
+
+.people-alumni .title-item {
+    font-size: 24px;
+}
+
+
+	.about-xinxi .xinxi-box img {
+		width: 40px;
+	}
+	.about-xinxi .xinxi-box .xinxi-title {
+		font-size: 21px;
+	}
+	.about-xinxi .xinxi-box .xinxi-text p {
+		font-size: 17px;
+	}
+	.about-xinxi .xinxi-box.xinxi-map .xinxi-text {
+		height: 200px;
+	}
+	.scientific-box {
+		margin-top: 50px;
+	}
+	.news-box {
+		margin-top: 50px;
+	}
+	.item-title {
+		position: relative;
+		padding: 10px 24px 10px 17px;
+		margin-top: 20px;
+	}
+	.gallery ul li .gallery-img .date {
+		padding: 8px 25px;
+	}
+	/*.publications-title h5 {
+		font-size: 22px;
+	}*/
+	.content-right-title .introduction {
+		font-size: 16px;
+	}
+	.content-right-funder h4 {
+		font-size: 20px;
+	}
+	.list-img ul li .media-heading {
+		font-size: 21px;
+		height: 23px;
+	}
+	.list-img ul li .media-body .abstract {
+		font-size: 15px;
+		height: 42px;
+		margin: 7px 0 35px;
+	}
+	.list-img ul li .pull-left .pull-left-img {
+		width: 180px;
+		height: 120px;
+	}
+	.list-img ul li {
+		padding: 20px 28px 32px;
+		margin-bottom: 32px;
+	}
+	.list-patent ul li a {
+		padding-left: 15px;
+	}
+
+.current {
+    font-size: 28px;
+    margin: 40px 0 25px;
+}
+
+.list-book ul li h5.media-heading {
+    font-size: 26px;
+    height: 31px;
+}
+
+.teacher-right .v_news_content h2 {
+    font-size: 26px;
+    margin: 16px 0 13px;
+}
+
+.teacher-right .v_news_content h3 {
+    font-size: 22px;
+    padding-left: 18px;
+    margin: 16px 0 13px;
+}
+
+.teacher-left{
+   margin-top: 16px;
+}
+
+.teacher-left .teacher-left-img{
+   height: 330px;
+    line-height: 330px;
+}
+
+teacher-left-contact h4 span {
+    font-size: 22px;
+    padding-left: 18px;
+}
+
+.teacher-left-contact h4 {
+    padding: 14px 0 14px 32px;
+}
+
+.teacher-left-contact h4 span {
+    font-size: 22px;
+    padding-left: 18px;
+}
+
+.teacher-left-contact p {
+    padding: 28px 0 28px 28px;
+}
+
+.content-right-title .content-right-img {
+    height: 147px;
+}
+
+.publications-title.navFix{
+   width: 877.5px;
+}
+
+.right-list-date.navFix{
+  width: 877.5px;
+}
+
+.left-nav .left-nav-padding.leftnavFix{
+   width:292.5px;
+}
+
+
+}
+
+@media screen and (max-width: 1200px) {
+	/*.logo img {
+		width: 100%;
+	}*/
+	/*.nav {
+		margin-top: 5px;
+	}*/
+
+.navFix .swiper5{
+        width: 970px;
+   }
+
+.right-list-date.navFix{
+ /* top: 140px;*/
+  padding: 8px 0;
+}
+
+.right-list-date .swiper5 .swiper-slide {
+
+    font-size: 13px;
+    margin: 2px 0;
+    padding: 3px 10px;
+}
+	.nav ul li {
+		padding: 0 2.1%;
+	}
+	.nav ul li a {
+		font-size: 17px;
+	}
+	#full-width-slider .rsGCaption h4 {
+		font-size: 32px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 24px;
+	}
+	#full-width-slider .rsGCaption a {
+		background-size: 30px;
+		padding: 10px 0 10px 42px;
+	}
+	#full-width-slider .rsGCaption a:hover:after {
+		left: 40px;
+	}
+	/*.banner {
+		margin-top: 103px;
+	}*/
+	.index-title .title {
+		font-size: 32px;
+		margin-bottom: 15px;
+	}
+	.Partners_text p {
+		font-size: 17px;
+	}
+	.Partners_text h3 {
+		font-size: 44px;
+		/*line-height: 32px;*/
+	}
+	.current-swiper {
+		width: 500px;
+		height: 308px;
+	}
+	.nocurrent-swiper {
+		width: 400px;
+		height: 246px;
+	}
+	.left-swiper {
+		top: 30px;
+	}
+	.right-swiper {
+		top: 30px;
+	}
+	.link ul li {
+		margin: 0 10px;
+	}
+	.banner-current {
+		font-size: 36px;
+		/*bottom: 70px;*/
+	}
+	.banner-current p {
+		background-size: 28px;
+		margin: 10px 20px 40px;
+	}
+	.web-nav ul li {
+		
+		min-width: 150px;
+		background-size: 1.5px;
+	}
+	.web-nav ul li a {
+		font-size: 16px;
+                padding: 14px 5px;
+	}
+	.item-title h4 {
+		font-size: 20px;
+	}
+	.item-title .more {
+		/*top: 15px;*/
+		font-size: 13px;
+	}
+	.gallery ul li {
+		/*margin: 20px 0 0px 2.8%;*/
+		margin: 20px 1.4% 0px 1.4%;
+	}
+	.gallery ul li .xinxi .date {
+		font-size: 20px;
+	}
+	.gallery ul li .xinxi .title {
+		font-size: 16px;
+		height: 44px;
+	}
+	.gallery ul li .gallery-img .date .gallery-date {
+		width: 14px;
+	}
+	.gallery ul li .gallery-img {
+		height: 269px;
+	}
+	.gallery ul li .gallery-img .date {
+		padding: 7px 23px;
+		font-size: 13px;
+	}
+	.location a {
+		font-size: 16px;
+	}
+
+      .location-teacher a {
+               font-size: 16px;
+       }
+
+.location-teacher a.location-teacher-return{
+       font-size: 16px;
+}
+	.link {
+		margin-bottom: 20px;
+	}
+	.footer {
+		padding: 0 0 25px;
+	}
+	
+	.list-img ul {
+		margin-top: 20px;
+	}
+	.list-img ul li {
+		padding: 18px 25px 28px;
+		margin-bottom: 25px;
+	}
+	.list-img ul li .pull-left a {
+		width: 240px;
+		height: 160px;
+	}
+	.list-img ul li .media-body .media-heading {
+		font-size: 16px;
+		height: 48px;
+		margin: 8px 0 0px;
+	}
+	.list-img ul li .media-body .abstract {
+		font-size: 14px;
+		height: 40px;
+		margin: 5px 0 28px;
+	}
+	.list-img ul li .pull-left .pull-left-img {
+		width: 160px;
+		height: 107px;
+	}
+	.topic {
+		margin-top: 35px;
+	}
+	.left-nav .left-nav-box h2 {
+		font-size: 24px;
+	}
+	.left-nav ul li {
+		line-height: 32px;
+	}
+	.list-img ul li .media-body .date {
+		font-size: 12px;
+	}
+	.featuredswiper .swiper-slide .Featured_img {
+		height: 150px;
+	}
+	.featuredswiper .swiper-slide .Featured_text .Featured_author {
+		font-size: 16px;
+	}
+	.featuredswiper .swiper-slide .Featured_text .Featured_title {
+		font-size: 20px;
+		height: 60px;
+               line-height: 30px;
+      
+	}
+	.publications-title {
+		background: #f9f9f9;
+		/*padding: 12px 0;*/
+	}
+	.publications-title h5 {
+		font-size: 24px;
+	}
+	.publications ul li .media-body .media-heading {
+		font-size: 20px;
+		margin-top: 0px;
+		height: 46px;
+	}
+	.publications ul li .media-body .xinxi {
+		font-size: 15px;
+                margin: 12px 0;
+	}
+	.publications ul li .media-body .xinxi span {
+		font-size: 16px;
+		padding: 2px 8px 5px;
+		margin-right: 14px;
+	}
+	.publications ul li {
+		border-bottom: 1px solid #e6e6e6;
+		padding: 20px 25px 18px 10px;
+	}
+	.featuredswiper .swiper-button-prev {
+		background-size: 20px;
+	}
+	.featuredswiper .swiper-button-next {
+		background-size: 20px;
+	}
+	.featuredswiper-title {
+		font-size: 24px;
+	}
+	.people .people-item .title {
+		font-size: 32px;
+		/* margin-bottom: 30px;
+    margin-top: 25px;*/
+		margin-top: 60px;
+	}
+
+.people .people-item .title-item{
+       font-size: 22px;
+}
+
+.people-item ul li .people-item-text {
+    padding: 10px 0 8px;
+}
+	.people-item ul li {
+		margin-top: 30px;
+	}
+	.people-alumni ul li {
+		margin-bottom: 5px;
+	}
+	.people-alumni ul li a {
+		padding: 20px 0;
+                padding: 10px 0;
+		font-size: 18px;
+	}
+
+.people-alumni ul li a span{
+      font-size: 14px;
+}
+	.people-key {
+		margin: 30px 5%;
+	}
+	.people-key .title {
+		font-size: 32px;
+		margin-bottom: 15px;
+		margin-top: 5px;
+	}
+	.people-key .people-key-textbox .people-key-text h3 {
+		margin-bottom: 10px;
+	}
+	.people-key .people-key-textbox .people-key-text p {
+		font-size: 14px;
+	}
+	.people-key .people-key-textbox .people-key-text {
+		padding: 0px 35px 8px;
+	}
+	.people-key .people-key-textbox .people-key-more {
+		margin-left: 35px;
+		margin-bottom: 22px;
+		padding: 5px 15px;
+	}
+	.people-item.graduates ul li a {
+		padding: 15px 10px 0 10px;
+	}
+	.people-item.graduates ul li .people-item-text {
+		padding: 0 0 10px;
+	}
+	.people-item ul li .people-item-text .people-item-pro {
+		font-size: 16px;
+		margin: 0 15px;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 28px;
+		margin: 0 8px 0px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-name {
+		font-size: 22px;
+              /*  font-size: 20px;*/
+                margin: 0 0 3px 8px;
+	}
+
+.people-item.graduates ul li .people-item-img {
+   width: 35%;
+   /* margin-top: 14px;*/
+}
+	.people-item ul li .people-item-text .people-item-abstract {
+		font-size: 15px;
+		line-height: 18px;
+                height: 36px;
+		margin: 0 15px 0px;
+	}
+	.people-item ul li .people-item-text .people-item-mailbox {
+		font-size: 15px;
+		margin: 0 8px 0px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-more {
+		font-size: 14px;
+		margin: 0 0px 5px 8px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-pro {
+		font-size: 15px;
+                margin: 0 0 0 8px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-mailbox {
+		margin: 0 0px 8px 12px;
+                margin: 0 0px 4px 12px;
+	}
+
+         .people-item.graduates ul li .people-item-text .people-item-group{
+              margin: 0 0px 0 12px;
+}
+	.people-item ul li .people-item-text .people-item-more {
+		font-size: 14px;
+		line-height: 24px;
+		margin: 0 12px 0px;
+	}
+	.people-key .people-key-img {
+		height: 305px;
+	}
+	.people-alumni .title {
+		font-size: 32px;
+	}
+.people-alumni .title-item {
+    font-size: 22px;
+}
+
+
+	.about-xinxi .xinxi-box img {
+		width: 38px;
+	}
+	.xinxi-title {
+		font-size: 20px;
+	}
+	.about {
+		margin-bottom: 30px;
+		padding-bottom: 30px;
+	}
+	.about-xinxi .xinxi-box .xinxi-text p {
+		font-size: 16px;
+	}
+
+.about h2.title {
+    font-size: 26px;
+    color: #000;
+    line-height: 38px;
+}
+
+.about h3.subtitle {
+    font-size: 18px;
+}
+	.about p {
+		font-size: 16px !important;
+		line-height: 26px !important;
+	}
+	.about-xinxi .xinxi-box.xinxi-map .xinxi-text {
+		height: 180px;
+	}
+	.scientific-box {
+		margin-top: 40px;
+	}
+	.news-box {
+		margin-top: 40px;
+	}
+	.scientific-text {
+		padding: 11px 40px 11px 18px;
+		margin-right: 45px;
+	}
+	.scientific-text h3 {
+		line-height: 22px;
+		height: 66px;
+		margin: 0 0 5px;
+	}
+	.scientific-time {
+		width: 68px;
+		padding: 5px 0 8px;
+	}
+	.scientific-time .date {
+		font-size: 24px;
+		line-height: 32px;
+	}
+	.scientific-time .month {
+		font-size: 19px;
+		line-height: 24px;
+	}
+	.gallery ul li .gallery-img .date {
+		font-size: 12px;
+		padding: 7px 18px 4px;
+	}
+	.gallery ul li .gallery-img .date .gallery-date {
+		width: 13px;
+		margin-right: 7px;
+		margin-bottom: 2px;
+	}
+	.content-right-title h4 {
+		margin: 0 0 0px;
+	}
+	.content-right-funder h4 {
+		font-size: 18px;
+		margin: 0 0 10px;
+	}
+	.content-left p {
+		font-size: 16px !important;
+		line-height: 26px !important;
+	}
+
+.content-left p span {
+		font-size: 16px !important;
+		line-height: 26px !important;
+	}
+
+
+.content-left  span {
+		font-size: 16px !important;
+		line-height: 26px !important;
+	}
+	.content-right-title {
+		padding: 15px 30px;
+	}
+	.content-right-title h4 {
+		font-size: 18px;
+		margin: 0 0 0px;
+	}
+	.content-right-title {
+		padding: 12px 20px 8px;
+		margin-bottom: 20px;
+	}
+
+.content-right-funder p {
+    font-size: 15px;
+}
+
+.content-right-funder {
+    padding: 15px 20px;
+}
+	/*.content-right-title .content-right-img {
+		height: 250px;
+	}*/
+
+.content-right-title .content-right-img {
+    height: 128px;
+}
+	.content-right-funder h4 {
+		font-size: 17px;
+		color: #333;
+		margin: 0 0 7px;
+	}
+	.item-title {
+		margin-top: 30px;
+	}
+	.list-img ul li .media-heading {
+		font-size: 20px;
+		height: 22px;
+	}
+	.web-nav {
+		height: 51px;
+	}
+
+.left-nav .left-nav-box.leftnavFix{
+   top: 115px;
+}
+
+
+.current {
+    font-size: 26px;
+    margin: 30px 0 20px;
+}
+
+.list-book ul li{
+  padding: 25px 55px 18px 30px;
+    margin-bottom: 22px;
+}
+
+.list-book ul li h5.media-heading {
+    font-size: 24px;
+    margin-bottom: 8px;
+    height: 28px;
+}
+
+.list-book ul li .book-author{
+   margin-bottom: 15px;
+}
+
+.list-book ul li .pull-left-img {
+    width: 148px;
+    height: 192px;
+    margin-right: 22px;
+}
+
+.people-key .people-key-textbox .people-key-text p.abstract{
+       font-size: 16px;
+           height: 44px;
+}
+
+.web-nav.web-nav1 ul li a{
+       padding: 12px 0;
+}
+.teacher-right .v_news_content h2 {
+    font-size: 24px;
+    margin: 12px 0 10px;
+}
+
+
+.teacher-right .v_news_content h3 {
+    font-size: 20px;
+    padding-left: 16px;
+    margin: 12px 0 10px;
+}
+
+.teacher-left .teacher-left-img {
+    height: 290px;
+    line-height: 290px;
+}
+
+.teacher-right .v_news_content p {
+    font-size: 15px;
+}
+
+.teacher-left-contact p {
+    padding: 25px 0 25px 25px;
+    font-size: 15px;
+}
+
+.teacher-left-contact h4 {
+    padding: 12px 0 12px 26px;
+}
+
+.people-alumni .title{
+   margin: 60px 0 0px;
+}
+
+.publications-title.navFix{
+   width: 727.5px;
+}
+
+.right-list-date.navFix{
+  width: 727.5px;
+}
+
+.left-nav .left-nav-padding.leftnavFix{
+   width:242.5px;
+}
+
+.right-list-box .swiper-button-prev1{
+   left: 180px;
+}
+
+.right-list-box .swiper-button-next1 {
+    left: 210px;
+}
+}
+
+@media screen and (max-width: 992px) {
+
+.navFix .swiper5{
+        width: 750px;
+   }
+
+/*.right-list-date.navFix {
+    top: 119px;
+}*/
+	.logo img {
+		width: 100%;
+	}
+	.header {
+		padding: 12px 0 6px;
+	}
+	.nav {
+		margin-top: 0px;
+	}
+	.nav ul li {
+		padding: 0 1.35%;
+		line-height: 53px;
+	}
+	.nav ul li a {
+		font-size: 16px;
+	}
+	.banner {
+		margin-top: 73px;
+	}
+	#full-width-slider .rsGCaption h4 {
+		font-size: 28px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 20PX;
+		margin-bottom: 30PX;
+	}
+	#full-width-slider .rsGCaption a {
+		background-size: 28px;
+		font-size: 16px;
+	}
+	#full-width-slider .rsBullets {
+		bottom: 18px;
+	}
+	#full-width-slider .rsGCaption a:hover:after {
+		width: 78px;
+	}
+	.news-box {
+		width: 100%;
+		margin-top: 40px;
+		padding-right: 0;
+		margin-bottom: 30px;
+	}
+	.index-title .title {
+		font-size: 30px;
+		margin-bottom: 15px;
+	}
+	.scientific-box {
+		margin-top: 10px;
+		width: 100%;
+		padding-left: 0;
+		margin-bottom: 30px;
+	}
+	.research-box {
+		width: 100%;
+		padding-right: 0;
+		margin-bottom: 30px;
+	}
+	.publications-box {
+		width: 100%;
+		padding-left: 0;
+		margin: 10px 0 50px;
+	}
+	.publications-box ul li .publications-text h3 {
+		font-size: 20px;
+	}
+	.publications-box ul li .publications-text p {
+		line-height: 22px;
+		height: 66px;
+		font-size: 14px;
+	}
+	.publications-box ul li .publications-img {
+		height: 327px;
+	}
+	.swiper-button-prev {
+		background-size: 22px;
+	}
+	.swiper-button-next {
+		background-size: 22px;
+	}
+	.link h3 {
+		width: 100%;
+		font-size: 14px;
+	}
+	.link h3 img {
+		width: 23px;
+	}
+	.link ul {
+		width: 100%;
+		margin: 5px 0 16px;
+	}
+	.link ul li a {
+		font-size: 14px;
+	}
+	.current-swiper {
+		width: 400px;
+		height: 246px;
+	}
+	.nocurrent-swiper {
+		width: 300px;
+		height: 185px;
+	}
+	.Partners-box {
+		margin: 50px 0 100px;
+	}
+	.web-nav ul li a {
+		font-size: 15px;
+                padding: 13px 4px;
+	}
+	.web-nav ul li {
+		
+		min-width: 93px;
+	}
+
+.web-nav ul li.bg_color  a{
+   padding-top: 14.5px;
+    padding-bottom: 14.5px;
+}
+
+
+.web-nav ul li:hover a{
+   padding-top: 14.5px;
+    padding-bottom: 14.5px;
+}
+
+.featuredswiper{
+       margin-bottom: 20px;
+}
+	/*.web-nav {
+		margin: 5px 0 10px;
+	}*/
+	.item-title {
+		padding: 11px 20px 11px 15px;
+		margin-top: 20px;
+	}
+	.item-title h4 {
+		font-size: 18px;
+	}
+	.item-title .more {
+		top: 6px;
+		font-size: 12px;
+	}
+	.gallery ul li .gallery-img {
+		height: 206px;
+	}
+	.gallery ul li .xinxi {
+		margin: 8px 0 6px;
+	}
+	.gallery ul li .xinxi .date {
+		font-size: 18px;
+	}
+	.gallery ul li .xinxi .title {
+		font-size: 15px;
+		height: 42px;
+	}
+	.banner-current {
+		font-size: 32px;
+		bottom: 30px;
+		width: 29%;
+	}
+	.banner-current p {
+		background-size: 26px;
+		margin: 6px 15px 30px;
+	}
+	.location a {
+		font-size: 14px;
+	}
+
+        .location-teacher a{
+            font-size: 14px;
+        }
+        .location-teacher a.location-teacher-return{
+               font-size: 14px;
+        }
+	.about p {
+		font-size: 14px !important;
+	}
+	.list-img ul li {
+		margin-bottom: 28px;
+		padding: 15px 20px 20px;
+	}
+	.list-img ul li .media-heading {
+		font-size: 18px;
+		height: 19px;
+	}
+	.list-img ul li .pull-left .pull-left-img {
+		width: 140px;
+		height: 94px;
+	}
+	.list-img ul li .media-body .abstract {
+		font-size: 13px;
+		height: 35px;
+		margin: 5px 0 18px;
+	}
+	.featuredswiper .swiper-slide .Featured_text .Featured_title {
+		font-size: 18px;
+		line-height: 25px;
+               height: 50px;
+	}
+	.featuredswiper .swiper-slide .Featured_img {
+		height: 124px;
+	}
+	.publications-title h5 {
+		font-size: 19px;
+	}
+	.people .people-item .title {
+		font-size: 28px;
+		/* margin-bottom: 15px;
+    margin-top: 20px;*/
+		margin-top: 40px;
+	}
+
+.people .people-item .title-item{
+       font-size: 20px;
+}
+	.people-alumni ul li {
+		margin-bottom: 0px;
+	}
+	.people-alumni ul li a {
+		padding: 18px 0;
+		font-size: 17px;
+	}
+	.people-item ul {
+		margin-left: 0;
+	}
+	.people-item ul li {
+		width: 100%;
+		margin-left: 0;
+	}
+	.people-item ul li .people-item-img {
+		width: 26.5%;
+	}
+
+.people-item.graduates ul li .people-item-img {
+    margin-top: 4px;
+   margin-top: 1px;
+}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 26px;
+	}
+	.people-item ul li .people-item-text .people-item-mailbox {
+		font-size: 15px;
+		margin: 0 15px 10px;
+	}
+	.people-key .people-key-textbox .people-key-text h3 {
+		font-size: 18px;
+		margin-top: 10px;
+		margin-bottom: 5px;
+	}
+	.people-key .people-key-textbox .people-key-text p.address {
+		height: 18px;
+	}
+	.people-key .people-key-textbox .people-key-text p {
+		font-size: 12px;
+	}
+	.people-key .people-key-textbox .people-key-text p.abstract {
+		height: 34px;
+	}
+	.people-key .people-key-textbox .people-key-more {
+		margin-left: 30px;
+		margin-bottom: 10px;
+		padding: 1px 10px 3px;
+	}
+	.people-key .people-key-textbox .people-key-more a {
+		font-size: 12px;
+	}
+	.people-key .title {
+		font-size: 28px;
+	}
+	.people-key .people-key-img {
+		height: 237px;
+	}
+	.people-alumni .title {
+		font-size: 28px;
+	}
+
+.people-alumni .title-item {
+    font-size: 20px;
+}
+	.people-alumni ul li {
+		width: 48%;
+	}
+	.about-xinxi .xinxi-box img {
+		width: 35px;
+	}
+	.about {
+		padding-bottom: 20px;
+	}
+	.about-xinxi .xinxi-box .xinxi-title {
+		font-size: 18px;
+	}
+	.about-xinxi .xinxi-box .xinxi-text p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.about-xinxi .xinxi-box.xinxi-map .xinxi-text {
+		height: 150px;
+	}
+	.about-xinxi {
+		margin-bottom: 50px;
+	}
+	.reseach-about .publications ul li {
+		padding: 30px 30px 15px 10px;
+	}
+	.reseach-about .publications ul li .pull-left a {
+		display: block;
+		width: 155px;
+		height: 134px;
+	}
+	.reseach-about .publications ul li .media-body .media-heading {
+		margin: 5px 0 10px;
+	}
+	.web-nav.navFix {
+		top: 73px;
+	}
+	.people-item.graduates ul {
+		margin-left: -3%;
+	}
+	.people-item.graduates ul li {
+		width: 47%;
+		margin-left: 3%;
+	}
+	.web-nav {
+		height: 48px;
+	}
+
+.left-nav .left-nav-box h2 {
+    font-size: 22px;
+}
+
+.publications-title.navFix {
+    width: 562.5px;
+    top: 120.33px;
+}
+
+.publications-title  {
+    height: 53px;
+}
+
+.publications-title h5 {
+    line-height: 53px;
+}
+
+.left-nav .left-nav-padding.leftnavFix{
+     top: 120.33px;
+    width: 187.5px;
+}
+
+.location.navFix{  
+      top: 72px;
+      height: 48.22px;
+}
+
+.right-list-date.navFix {
+    top: 173.22px;
+    width: 562.5px;
+}
+
+.left-nav .left-nav-box.leftnavFix{
+   top: 95px;
+}
+
+.right-box {
+    margin-bottom: 30px;
+}
+
+.current {
+    font-size: 24px;
+    margin: 20px 0 15px;
+}
+
+.list-book ul li {
+    padding: 18px 40px 13px 20px;
+    margin-bottom: 18px;
+}
+
+.list-book ul li h5.media-heading {
+    font-size: 22px;
+    margin-bottom: 6px;
+    height: 26px;
+}
+
+.list-book ul li .book-author {
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.list-book ul li .pull-left-img {
+    width: 128px;
+    height: 166px;
+    margin-right: 15px;
+}
+
+.list-book ul li .abstract {
+    font-size: 15px;
+    line-height: 26px;
+    height: 108px;
+    margin: 18px 0 0;
+}
+
+.list-patent ul li{
+   padding: 15px 0;
+    margin-top: 6px;
+}
+
+.list-patent ul li a{
+   padding-left: 10px;
+   font-size: 15px;
+}
+
+.people-key .people-key-textbox .people-key-text p.abstract{
+       font-size: 14px;
+           height: 34px;
+}
+
+.teacher-left {
+    margin-top: 8px;
+}
+
+.location-teacher{
+    margin-top: 72px;
+}
+
+
+.teacher-left .teacher-left-img {
+    height: 240px;
+    line-height: 240px;
+margin-bottom: 25px;
+}
+
+.teacher-right .v_news_content h2 {
+    font-size: 22px;
+}
+
+
+.teacher-right .v_news_content h3 {
+    font-size: 18px;
+    padding-left: 14px;
+    border-left: 2px solid #f8c514;
+}
+
+.teacher-right .v_news_content p {
+    font-size: 14px;
+    margin-bottom: 4px;
+    line-height: 1.6;
+}
+
+.teacher-left-contact h4 {
+    padding: 12px 0 12px 20px;
+}
+
+
+.teacher-left-contact h4 span {
+    font-size: 18px;
+    border-left: 2px solid #f8c514;
+    padding-left: 14px;
+}
+
+.teacher-left-contact p {
+    padding: 18px 10px 18px 18px;
+    font-size: 14px;
+    word-wrap: break-word;
+}
+
+.people-item-fix{
+       top: -120px;
+}
+
+
+.people-alumni .title{
+   margin: 45px 0 0px;
+}
+
+
+.web-nav.web-nav1 ul {
+    margin-bottom: 10px;
+}
+
+.about h2.title {
+    font-size: 22px;
+    line-height: 34px;
+}
+
+.about h3.subtitle {
+    font-size: 15px;
+}
+
+/*.content-right-title .content-right-img {
+    height: 180px;
+}*/
+
+.content-right-title .content-right-img {
+    height: 101px;
+}
+
+.content-right-title {
+    padding: 12px 14px 8px;
+}
+
+.content-right-funder {
+    padding: 12px 15px;
+}
+
+.content-right-funder p {
+    font-size: 14px;
+}
+
+.right-list-box .swiper-button-prev1 {
+    left: 160px;
+    top: 15px;
+ background-size: 11px;
+}
+
+.right-list-box .swiper-button-next1 {
+    left: 180px;
+    top: 15px;
+    background-size: 11px;
+}
+
+
+}
+
+@media screen and (max-width: 768px) {
+.featuredswiper .swiper-slide .Featured_img {
+    height: 175px;
+}
+
+}
+
+@media screen and (max-width: 767px) {
+	.header {
+		padding: 7px 0 9px;
+	}
+
+.right-list-date.navFix {
+    top: 152px;
+}
+
+.navFix .swiper5 {
+    width: auto;
+    /* padding: 0 10px; */
+    margin: 0 10px;
+}
+	.container {
+		padding: 0 10px;
+	}
+	.navbar-toggle {
+		display: block;
+	}
+	.logo img {
+		width: 240px;
+	}
+	.banner {
+		margin-top: 63px;
+	}
+	.nav {
+		width: 100%;
+		display: none;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		z-index: 1001;
+		min-height: 100%;
+		background: url(../images/nav.png) 100% 100% repeat;
+		overflow-y: auto;
+		margin-left: 0;
+	}
+	.nav ul {
+		width: 100%;
+		margin: 20px 0 10px;
+		overflow: hidden;
+	}
+	.nav ul li {
+		width: 92%;
+		height: auto;
+		background: none;
+		line-height: normal;
+		height: auto;
+		margin: 0 4% 20px;
+		text-align: left;
+		border-bottom: 0;
+		font-size: 16px;
+	}
+	.nav ul li a {
+		color: #fff;
+	}
+
+.location.navFix {
+    top: 63px;
+}
+	#full-width-slider .rsGCaption h4 {
+		font-size: 24px;
+		height: 38px;
+		background-size: 14px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.news-box {
+		margin-top: 25px;
+	}
+	.index-title .title {
+		font-size: 28px;
+		margin-bottom: 12px;
+	}
+	#full-width-slider1 .rsGCaption h4 {
+		font-size: 22px;
+		margin: 0 20px;
+	}
+	#full-width-slider1 .rsGCaption p {
+		font-size: 14px;
+		line-height: 18px;
+		margin: 0 20px;
+		height: 36px;
+	}
+	.research_text p {
+		font-size: 16px;
+	}
+	.research_text {
+		margin: 8px 0 30px;
+	}
+	.research-box .more {
+		font-size: 15px;
+		padding: 10px 20px;
+	}
+	.publications-box ul li .publications-text h3 {
+		font-size: 18px;
+	}
+	.publications-box ul li .publications-img {
+		height: 300px;
+	}
+	.Partners_text h3 {
+		font-size: 40px;
+		/*line-height: 28px;*/
+	}
+	.Partners_text p {
+		font-size: 16px;
+	}
+	.footer-record p {
+		font-size: 14px;
+	}
+	.banner-current {
+		font-size: 28px;
+		bottom: 20px;
+	}
+	.banner-current p {
+		background-size: 22px;
+		margin: 5px 12px 23px;
+	}
+	.featuredswiper .swiper-slide .Featured_text .Featured_title {
+		font-size: 18px;
+		line-height: 22px;
+                height: 44px;
+	}
+	.featuredswiper .swiper-slide .Featured_text .Featured_author {
+		font-size: 14px;
+	}
+	.featuredswiper-title {
+		font-size: 22px;
+	}
+	.people .people-item .title {
+		font-size: 26px;
+		/*margin-bottom: 15px;
+    margin-top: 15px;*/
+		/*margin-top: 81px;*/
+	}
+
+.people .people-item .title-item{
+       font-size: 18px;
+}
+	.people-key .people-key-img {
+		height: 227px;
+	}
+	.people-alumni .title {
+		font-size: 26px;
+	}
+
+.people-alumni .title-item {
+    font-size: 19px;
+}
+	.about {
+		border-bottom: 4px solid #eaeaea;
+		margin-bottom: 20px;
+	}
+	.about-xinxi .xinxi-box img {
+		width: 32px;
+	}
+	.about-xinxi .xinxi-box .xinxi-title {
+		font-size: 16px;
+	}
+	.about-xinxi .xinxi-box {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.about-xinxi .xinxi-box.xinxi-map {
+		width: 100%;
+		margin-left: 0;
+	}
+	.about-xinxi .xinxi-box.xinxi-map .xinxi-text {
+		width: 250px;
+		background: #e1e1e1;
+		height: 150px;
+	}
+
+.about h2.title {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.about h3.subtitle {
+    font-size: 14px;
+}
+	.content-right {
+		padding-left: 0;
+	}
+	.content-right-title {
+		width: 48%;
+		float: left;
+		margin-right: 4%;
+	}
+	.content-right-funder {
+		width: 48%;
+		float: left;
+	}
+	.content-left {
+		padding-right: 0;
+		margin-top: 10px;
+	}
+	.reseach-about .right-box {
+		padding-right: 0;
+	}
+
+.people-item ul li{
+   margin-top: 25px;
+}
+
+
+	.web-nav.navFix {
+		top: 76.8px;
+	}
+	.web-nav {
+    height: 51px;
+    width: 100%;
+    position: initial;
+    text-align: center;
+    background: none;
+    /* margin: 10px 0 0; */
+    padding: 10px 0 0;
+    background: #fff;
+}
+	.web-nav ul {
+		width: 100%;
+		margin-left: -0.83%;
+	}
+
+.web-nav.web-nav1 ul {
+    margin-bottom: 0px;
+}
+	.web-nav ul li {
+		width: 32.5%;
+		margin-left: 0.83%;
+		
+               min-width: auto;
+	}
+
+.web-nav ul li a{
+   padding: 8.5px 0;
+}
+        
+.web-nav.web-nav-ite4 ul li{
+     width: 24.17%;
+     width: 19.17%;
+}
+
+.web-nav.web-nav-ite4 ul li a{
+  font-size: 14px;
+}
+
+
+	.web-nav ul li.bg_color a{
+		padding: 10px 0;
+		
+	}
+	.web-nav ul li:hover a{
+		padding: 10px 0;
+	}
+.left-nav .left-nav-box {
+    padding: 10px 0 0px;
+}
+.left-nav {
+    padding-left: 0px;
+   z-index: 20;
+}
+
+.topic {
+    margin-top: 15px;
+}
+.left-nav ul {
+    margin: 12px 0 20px;
+   overflow: hidden;
+}
+
+.left-nav ul li {
+    line-height: 28px;
+    float: left;
+    margin: 0 20px 0 0;
+   font-size: 14px;
+}
+
+.left-nav .left-nav-box h2 {
+    font-size: 20px;
+}
+
+.current {
+    font-size: 22px;
+    margin: 15px 0 12px;
+}
+
+.list-book ul li {
+    padding: 12px 25px 10px 15px;
+    margin-bottom: 14px;
+}
+
+.list-book ul li h5.media-heading {
+    font-size: 20px;
+    margin-bottom: 5px;
+    height: 24px;
+}
+
+.list-book ul li .book-author {
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.list-book ul li .pull-left-img {
+    width: 110px;
+    height: 143px;
+    margin-right: 8px;
+}
+
+.list-book ul li .abstract{
+      font-size: 14px;
+   margin: 12px 0 0;
+}
+
+.list-book ul li:hover {
+    box-shadow: 0px 11px 11px 0px #b8d7dd;
+}
+
+.list-patent ul li{
+  padding: 13px 0;
+    margin-top: 4px;
+}
+
+.list-patent ul li a{
+   padding-left: 8px;
+   font-size: 14px;
+}
+
+.people-key .people-key-textbox .people-key-text p.abstract{
+           height: 38px;
+}
+
+.location{
+    height: auto;
+  /* padding: 12px 0 6px;*/
+}
+
+.location-teacher{
+    padding: 12px 0 6px;
+}
+
+.people-key {
+    margin: 40px 5% 0;
+}
+
+.web-nav.web-nav1 ul li a{
+    
+    padding: 10px 0;
+}
+
+   .location-teacher {
+    margin-top: 63px;
+}
+
+.teacher-left .teacher-left-img {
+    width: 38%;
+    float: left;
+    margin-right: 4%;
+    height: 280px;
+    line-height: 280px;
+    margin-bottom: 25px;
+}
+
+.teacher-left {
+    margin-top: 0px;
+    padding-right: 0;
+}
+
+.teacher-left-contact {
+    width: 57%;
+    float: left;
+}
+
+  
+.people-item-fix{
+  top: -152px;
+}
+
+
+.left-nav .left-nav-box.leftnavFix{
+       position: initial;
+}
+
+.content-right-title .content-right-img {
+    height: 390px;
+    height: 183px;
+}
+
+.left-nav .left-nav-padding.leftnavFix {
+    /* top: 120.33px; */
+    width: 100%;
+    position: initial;
+}
+
+.right-list-date.navFix {
+    position: initial;
+    width: 100%;
+}
+
+.publications-title.navFix {
+    width: 100%;
+    /* top: 120.33px; */
+    position: initial;
+}
+
+.date-zhan{
+   height: 0 !important;
+}
+
+.date-zhan1{
+   height: 0 !important;
+}
+
+.people-item.graduates ul li .people-item-img {
+   /* margin-top: 9px;*/
+}
+
+
+
+}
+
+@media screen and (max-width: 760px) {
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 22px;
+	}
+	.people-item ul li .people-item-text .people-item-mailbox {
+		font-size: 15px;
+		margin: 0 15px 6px;
+	}
+	.people-key .title {
+		font-size: 26px;
+	}
+}
+
+@media screen and (max-width: 720px) {
+	.publications-box ul li .publications-img {
+		height: 280px;
+	}
+	.gallery ul li .gallery-img {
+		height: 165px;
+	}
+	.people-item ul li .people-item-text .people-item-pro {
+		font-size: 14px;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 20px;
+	}
+	.people-item ul li .people-item-text .people-item-abstract {
+		font-size: 14px;
+		line-height: 16px;
+                   height: 32px;
+	}
+	.people-item ul li .people-item-text .people-item-more {
+		font-size: 12px;
+	}
+	.web-nav.navFix {
+		top: 76.8px;
+	}
+	.item-title {
+		margin-top: 0px;
+		padding: 10px 6px;
+	}
+.people-item.graduates ul li .people-item-img {
+    margin-top: 5px;
+}
+}
+
+@media screen and (max-width: 700px) {
+.content-right-title .content-right-img {
+    height: 163px;
+}
+}
+
+@media screen and (max-width: 690px) {
+.featuredswiper .swiper-slide .Featured_img {
+    height: 165px;
+}
+
+/*.content-right-title .content-right-img {
+    height: 360px;
+}*/
+}
+
+@media screen and (max-width: 680px) {
+	.publications-box ul li .publications-img {
+		height: 250px;
+	}
+	.gallery ul li .gallery-img {
+		height: 160px;
+	}
+	.people-item ul li .people-item-img {
+		width: 28.5%;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 22px;
+	}
+	.people-key .people-key-img {
+		width: 100%;
+		overflow: hidden;
+		height: 280px;
+	}
+	.people-key .people-key-img .people-key-beij {
+		width: 100%;
+	}
+	.people-key .people-key-textbox {
+		width: 100%;
+	}
+	.reseach-about .publications ul li {
+		padding: 20px 25px 15px 10px;
+	}
+	.people-item.graduates ul li a {
+		padding: 8px 10px 0 10px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-pro {
+		font-size: 14px;
+		margin: 0 0 0 10px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-name {
+		font-size: 20px;
+		margin: 0 0 0px 10px;
+	}
+	.people-item.graduates ul li .people-item-text .people-item-mailbox {
+		font-size: 13px;
+		/*margin: 0 0px 5px 10px;*/
+	}
+
+.people-item.graduates ul li .people-item-text .people-item-group{
+     font-size: 13px;
+}
+	.people-item.graduates ul li .people-item-text .people-item-more {
+		font-size: 13px;
+		margin: 0 0px 3px 15px;
+	}
+}
+
+@media screen and (max-width: 660px) {
+/*.content-right-title .content-right-img {
+    height: 330px;
+}*/
+}
+
+@media screen and (max-width: 650px) {
+.featuredswiper .swiper-slide .Featured_img {
+    height: 155px;
+}
+}
+
+@media screen and (max-width: 640px) {
+	#full-width-slider .rsGCaption h4 {
+		font-size: 20px;
+		height: 32px;
+		background-size: 12px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 16px;
+	}
+	#full-width-slider .rsGCaption a {
+		background-size: 24px;
+		font-size: 14px;
+		padding: 8px 0 8px 35px;
+	}
+	#full-width-slider .rsGCaption a:hover:after {
+		width: 65px;
+		left: 35px;
+		bottom: 7px;
+	}
+	#full-width-slider .rsBullets {
+		bottom: 10px;
+	}
+	.index-title .title {
+		font-size: 26px;
+		margin-bottom: 10px;
+	}
+	#full-width-slider1 .rsGCaption h4 {
+		font-size: 18px;
+		/*height: 25px;*/
+	}
+	/*.scientific-time {
+		top: 25px;
+	}*/
+	/*.scientific-time .date {
+		font-size: 24px;
+		line-height: 38px;
+	}*/
+	/*.scientific-time .month {
+		font-size: 22px;
+		line-height: 22px;
+	}*/
+	.publications-box ul li .publications-img {
+		height: 230px;
+	}
+	.publications-box ul li .publications-text h3 {
+		font-size: 16px;
+	}
+	.banner-current {
+		font-size: 26px;
+		bottom: 18px;
+	}
+	.banner-current p {
+		background-size: 18px;
+		margin: 5px 10px 20px;
+	}
+	.gallery ul {
+		margin-left: 0;
+	}
+	.gallery ul li {
+		width: 100%;
+		margin: 5px 0 0px 0;
+	}
+	.gallery ul li .gallery-img {
+		height: 190px;
+	}
+	.gallery ul li .gallery-img {
+		height: 145px;
+	}
+	.publications ul li {
+		padding: 15px 16px 13px 8px;
+	}
+	.publications ul li .media-body .media-heading {
+		font-size: 18px;
+		height: 38px;
+	}
+	.publications ul li .media-body .xinxi {
+		font-size: 14px;
+	}
+
+.publications ul li .media-body .xinxi{
+       font-size: 13px;
+}
+	.publications ul li .media-body .xinxi span {
+		font-size: 14px;
+		padding: 2px 8px 5px;
+		margin-right: 10px;
+	}
+	.people .people-item .title {
+		font-size: 24px;
+	}
+
+.people .people-item .title-item{
+       font-size: 17px;
+}
+	.people-alumni ul li a {
+		padding: 18px 0;
+                padding: 8px 0;
+		font-size: 16px;
+	}
+
+.people-alumni ul li a span{
+      font-size: 12px;
+}
+	.people-item ul li .people-item-img {
+		width: 30.5%;
+	}
+	.people-key .title {
+		font-size: 24px;
+	}
+	.people-alumni .title {
+		font-size: 24px;
+	}
+
+.people-alumni .title-item {
+    font-size: 18px;
+}
+
+.right-box {
+    margin-bottom: 10px;
+}
+
+.web-nav.web-nav1 ul li a{
+    
+    padding: 10px 0;
+}
+
+.teacher-left .teacher-left-img {
+    height: 260px;
+    line-height: 260px;
+    margin-bottom: 15px;
+}
+
+.content-right-title .content-right-img {
+    height: 145px;
+}
+
+
+}
+
+@media screen and (max-width: 620px) {
+.featuredswiper .swiper-slide .Featured_img {
+    height: 145px;
+}
+}
+
+@media screen and (max-width: 600px) {
+	.people-item ul li .people-item-text {
+		padding: 6px 0 9px;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 20px;
+	}
+	.banner-current {
+		width: 32%;
+		bottom: 12px;
+	}
+
+/*.content-right-title .content-right-img {
+    height: 300px;
+}*/
+}
+
+@media screen and (max-width: 580px) {
+	#full-width-slider .rsGCaption h4 {
+		font-size: 18px;
+		height: 30px;
+		background-size: 10px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 15px;
+	}
+	#full-width-slider .rsGCaption a {
+		background-size: 22px;
+	}
+	.news-box {
+		margin-top: 15px;
+		margin-bottom: 20px;
+	}
+	.index-title .title {
+		font-size: 24px;
+		margin-bottom: 8px;
+	}
+	.scientific-box {
+		margin-top: 0;
+		margin-bottom: 15px;
+	}
+	.index-title .more {
+		line-height: 52px;
+	}
+	.publications-box ul li .publications-img {
+		height: 210px;
+	}
+	.publications-box ul li .publications-text {
+		padding: 8px 0;
+	}
+	.publications-box ul li .publications-text h3 {
+		font-size: 15px;
+	}
+	.publications-box ul li .publications-text p {
+		line-height: 20px;
+		height: 60px;
+		font-size: 12px;
+	}
+	.gallery ul li {
+		width: 100%;
+		/* margin: 20px 0 0;*/
+	}
+	.gallery ul li .gallery-img {
+		height: 185px;
+	}
+	.list-img ul li .pull-left a {
+		width: 200px;
+		height: 134px;
+	}
+	.list-img ul li .media-body .media-heading {
+		font-size: 14px;
+		height: 36px;
+		margin: 8px 0 0px;
+		line-height: 1.3;
+	}
+	.list-img ul li .media-body {
+		padding: 0 8px 0 5px;
+	}
+	.list-img ul li .media-body .abstract {
+		font-size: 12px;
+		height: 34px;
+		margin: 4px 0 7px;
+	}
+	.list-img ul li .media-body .date {
+		font-size: 12px;
+		background-size: 13px;
+		padding-left: 20px;
+	}
+	.list-img ul {
+		margin-top: 10px;
+	}
+	.people-key .people-key-textbox {
+		width: 100%;
+		position: initial;
+	}
+	.people-key .people-key-textbox .people-key-text {
+		padding: 0px 25px 8px;
+	}
+	.people-key .people-key-textbox .people-key-text p {
+		font-size: 14px;
+	}
+	.featuredswiper {
+		margin-bottom: 35px;
+	}
+	/*.content-right-title .content-right-img {
+		height: 120px;
+	}*/
+	.reseach-about .publications ul li {
+		padding: 25px 10px 20px 10px;
+	}
+	.reseach-about .publications ul li .media-body .media-heading {
+		font-size: 16px;
+	}
+	.reseach-about .publications ul li .media-body .xinxi {
+		font-size: 14px;
+		height: 60px;
+		-webkit-line-clamp: 3;
+	}
+	.reseach-about .publications ul li .pull-left a {
+		display: block;
+		width: 135px;
+		height: 117px;
+	}
+	.people-item.graduates ul {
+		margin-left: 0;
+	}
+	.people-item.graduates ul li .people-item-img {
+		margin-top: 3px;
+                   margin-top: 6px;
+		width: 110px;
+	}
+	.people-item.graduates ul li {
+		width: 100%;
+		margin-left: 0;
+               margin-top: 20px;
+	}
+	.people-item.graduates ul li a {
+		padding: 12px 10px;
+	}
+
+.teacher-left .teacher-left-img {
+    height: 240px;
+    line-height: 240px;
+    margin-bottom: 10px;
+}
+
+.content-right-title .content-right-img {
+    height: 130px;
+}
+}
+
+@media screen and (max-width: 560px) {
+	.people-item ul li .people-item-text .people-item-abstract {
+		font-size: 14px;
+	}
+	.people-item ul li .people-item-text .people-item-name {
+		font-size: 18px;
+	}
+	.people-item ul li .people-item-img {
+		width: 32.5%;
+	}
+
+/*.content-right-title .content-right-img {
+    height: 270px;
+}*/
+}
+
+@media screen and (max-width: 550px) {
+	.p_first_d, .p_last_d {
+		font-size: 12px;
+	}
+	.p_first, .p_last {
+		font-size: 12px;
+	}
+	.p_prev_d, .p_prev {
+		font-size: 12px;
+	}
+	.p_no {
+		font-size: 12px;
+	}
+	.p_no_d {
+		font-size: 12px;
+	}
+	.p_next, .p_next_d {
+		font-size: 12px;
+	}
+	.people-item ul li .people-item-text .people-item-mailbox {
+		margin: 0 15px 0px;
+	}
+	.people-item ul li .people-item-text .people-item-more {
+		line-height: 22px;
+	}
+}
+
+@media screen and (max-width: 540px) {
+.content-right-title .content-right-img {
+    height: 110px;
+}
+}
+
+@media screen and (max-width: 520px) {
+	#full-width-slider .rsGCaption h4 {
+		font-size: 16px;
+		height: 25px;
+		background-size: 7px;
+	}
+	#full-width-slider .rsGCaption p {
+		font-size: 14px;
+	}
+	.publications-box ul li .publications-img {
+		height: 190px;
+	}
+	.index-title .title {
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.publications-box ul li {
+		width: 66%;
+		margin-left: 17%;
+		margin-bottom: 20px;
+	}
+	.publications-box ul li .publications-img {
+		height: 320px;
+	}
+	.Partners_text {
+		width: 100%;
+		margin: 10px 0 25px auto;
+	}
+	.scientific-time .date {
+		font-size: 22px;
+		line-height: 34px;
+	}
+	.scientific-time .month {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.current-swiper {
+		width: 390px;
+		height: 240px;
+	}
+	.Partners-box {
+		margin: 30px 0 50px;
+	}
+	#full-width-slider1 .rsArrowLeft {
+		left: 10px;
+	}
+	#full-width-slider1 .rsArrowRight {
+		right: 10px;
+	}
+
+#full-width-slider1 .rsArrow {
+    width: 18px;
+    height: 26px;
+}
+	#full-width-slider1 .rsArrowLeft .rsArrowIcn {
+		background-size: 10px;
+                width: 18px;
+                 height: 26px;
+	}
+	#full-width-slider1 .rsArrowRight .rsArrowIcn {
+		background-size: 10px;
+                 width: 18px;
+                 height: 26px;
+	}
+
+
+	#full-width-slider .rsBullets {
+		bottom: 5px;
+	}
+	#full-width-slider .rsBullet {
+		margin: 0 2px;
+	}
+	#full-width-slider .rsBullet span {
+		width: 4px;
+		height: 4px;
+	}
+	#full-width-slider .rsBullet.rsNavSelected span {
+		height: 10px;
+	}
+	.banner-current {
+		font-size: 22px;
+		bottom: 8px;
+	}
+	.banner-current p {
+		background-size: 16px;
+		margin: 5px 10px 15px;
+	}
+	.web-nav ul li a {
+		font-size: 13px;
+	}
+	/*.web-nav ul li {
+		padding: 15px 12px;
+	}*/
+	.item-title .more {
+		/*  top: 10px;
+    font-size: 14px;*/
+		right: 0;
+	}
+	.gallery ul li .xinxi .date {
+		font-size: 16px;
+	}
+	.people-item ul li .people-item-img {
+		width: 35.5%;
+	}
+	.publications ul li .pull-left a {
+		width: 130px;
+		height: 112px;
+                margin-top: 12px;
+	}
+	.publications ul li {
+		padding: 15px 0 13px;
+	}
+	.publications ul li .media-body .xinxi {
+		font-size: 12px;
+	}
+	.publications ul li .media-body .xinxi span {
+		font-size: 13px;
+		padding: 2px 5px 5px;
+		margin-right: 5px;
+	}
+	.people-key .people-key-img {
+		height: 240px;
+	}
+	.about-xinxi .xinxi-box img {
+		width: 29px;
+	}
+	/*.web-nav {
+		margin: 0px 0 20px;
+	}*/
+	/*.content-right-title .content-right-img {
+		height: 100px;
+	}*/
+	.content-right-title {
+		margin-bottom: 10px;
+	}
+	.list-img ul li .pull-left .pull-left-img {
+		display: block;
+		width: 110px;
+		height: 74px;
+	}
+	.list-img ul li .media-heading {
+		font-size: 17px;
+		height: 18px;
+	}
+	.list-img ul li {
+		margin-bottom: 18px;
+		padding: 12px 15px 15px;
+	}
+
+.current {
+    font-size: 20px;
+    margin: 12px 0 10px;
+}
+
+.list-book ul li {
+    padding: 8px 18px 10px 12px;
+    margin-bottom: 10px;
+}
+
+.list-book ul li h5.media-heading {
+    font-size: 18px;
+    height: 21px;
+}
+
+.list-book ul li .pull-left-img {
+    width: 90px;
+    height: 117px;
+    margin-right: 5px;
+}
+
+.list-book ul li .abstract {
+    font-size: 13px;
+    line-height: 22px;
+    height: 88px;
+    margin: 6px 0 0;
+}
+
+.list-book ul li:hover {
+    box-shadow: 0px 6px 6px 0px #b8d7dd;
+}
+
+.list-patent ul li{
+  padding: 10px 0;
+}
+
+
+.teacher-left .teacher-left-img {
+    height: 210px;
+    line-height: 210px;
+}
+
+.about h2.title {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+/*.content-right-title .content-right-img {
+    height: 250px;
+}*/
+
+}
+
+@media screen and (max-width: 500px) {
+	.featuredswiper .swiper-slide .Featured_img {
+		height: 200px;
+	}
+	.featuredswiper-title {
+		font-size: 20px;
+		margin-bottom: 10px;
+		margin-top: 15px;
+	}
+	.featuredswiper {
+		margin-bottom: 25px;
+	}
+}
+
+@media screen and (max-width: 490px) {}
+
+@media screen and (max-width: 480px) {
+	.swiper-button-next {
+		background-size: 18px;
+	}
+	.swiper-button-prev {
+		background-size: 18px;
+	}
+	.current-swiper {
+		width: 365px;
+		height: 225px;
+	}
+	.banner-current {
+		width: 36%;
+		bottom: 5px;
+	}
+	.reseach-about .publications ul li {
+		padding: 20px 10px 20px 10px;
+	}
+
+.content-right{
+   margin-top: 30px;
+}
+
+/*.content-right-title .content-right-img {
+    height: 220px;
+}*/
+}
+
+@media screen and (max-width: 470px) {
+	.people-item ul li .people-item-img {
+		width: 37.5%;
+	}
+}
+
+@media screen and (max-width: 460px) {
+	.list-img ul li .pull-left a {
+		width: 160px;
+		height: 107px;
+	}
+	.list-img ul li .media-body {
+		padding: 0 8px 0 0px;
+	}
+	.list-img ul li .media-body img {
+		width: 20px;
+	}
+	.list-img ul li .media-body .abstract {
+		font-size: 12px;
+		height: 34px;
+		margin: 0px 0 7px;
+	}
+	/* .media > .pull-left {
+    margin-top: 7px;
+}*/
+	.people-alumni ul {
+		margin-left: 0;
+	}
+	.people-alumni ul li {
+		width: 100%;
+		margin-left: 0;
+	}
+	.content-right-title {
+		width: auto;
+		margin-right: 0;
+		float: initial;
+	}
+	/*.content-right-title .content-right-img {
+		height: 190px;
+	}*/
+	.content-right-funder {
+		width: auto;
+		float: initial;
+	}
+
+.teacher-left .teacher-left-img {
+    height: 180px;
+    line-height: 180px;
+}
+
+.teacher-content {
+    padding: 25px 0 15px;
+    overflow: hidden;
+}
+
+/*.content-right-title .content-right-img {
+    height: 470px;
+}*/
+
+.content-right-title .content-right-img {
+    height: 230px;
+}
+}
+
+@media screen and (max-width: 450px) {
+	.current-swiper {
+		width: 335px;
+		height: 206px;
+	}
+	.left-swiper {
+		top: 15px;
+	}
+	.right-swiper {
+		top: 15px;
+	}
+	.nocurrent-swiper {
+		width: 200px;
+		height: 123px;
+	}
+	.people-item ul li .people-item-img {
+		width: 39.5%;
+	}
+}
+
+@media screen and (max-width: 440px) {
+.content-right-title .content-right-img {
+    height: 210px;
+}
+}
+
+@media screen and (max-width: 430px) {
+	.people-item ul li .people-item-img {
+		width: 150px;
+		margin: 0 auto;
+		float: none;
+	}
+	.people-item ul li .people-item-text {
+		width: 100%;
+	}
+	.people-item ul li .people-item-img .people-item-img-box {
+		display: none;
+	}
+	.people-item ul li .people-item-img .people-item-img-box1 {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 420px) {
+
+.right-list-date.navFix {
+    top: 138px;
+}
+	.current-swiper {
+		width: 290px;
+		height: 178px;
+	}
+	.Partners_text h3 {
+		font-size: 36px;
+		/*line-height: 24px;*/
+	}
+	.Partners_text p {
+		font-size: 14px;
+	}
+	.Partners_text {
+		width: 100%;
+		margin: 10px 0 10px auto;
+	}
+	.link {
+		margin-bottom: 20px;
+	}
+	.footer {
+		padding: 0 0 20px;
+	}
+	.index-title .title {
+		font-size: 20px;
+	}
+	.Partners-box {
+		margin: 20px 0 50px;
+	}
+	#full-width-slider1 .rsGCaption h4 {
+		font-size: 16px;
+		line-height: 20px;
+		height: 20px;
+		margin: 0 10px;
+	}
+	#full-width-slider1 .rsGCaption p {
+		font-size: 12px;
+		height: 30px;
+		line-height: 15px;
+		margin: 0 10px;
+	}
+#full-width-slider1 .rsArrowLeft{
+    top: 38%;
+}
+#full-width-slider1 .rsArrowRight {
+    top: 38%;
+}
+	.scientific-text {
+		padding: 13px 30px 13px 15px;
+		margin-right: 40px;
+	}
+	.scientific-text h3 {
+		font-size: 14px;
+		line-height: 20px;
+		height: 60px;
+		margin: 0 0 5px;
+	}
+	.scientific-time .date {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.scientific-time .month {
+		font-size: 18px;
+		line-height: 18px;
+	}
+	.scientific-time {
+		width: 60px;
+	}
+	.scientific-text .more {
+		font-size: 12px;
+	}
+	.index-title .more {
+		font-size: 12px;
+	}
+	.research_text p {
+		font-size: 14px;
+	}
+	.research-box .more {
+		font-size: 12px;
+		padding: 8px 20px;
+	}
+	.publications-box ul li {
+		width: 70%;
+		margin-left: 15%;
+	}
+	.logo img {
+		width: 210px;
+	}
+	.navbar-toggle {
+		display: block;
+		top: 0;
+		margin-top: 10px;
+	}
+	.banner {
+		margin-top: 57px;
+	}
+	.banner-current {
+		font-size: 20px;
+		/*  bottom: 21px;*/
+	}
+	.list-img ul li {
+		padding: 8px 12px 12px;
+	}
+	/*.list-img .media-left, .list-img .media > .pull-left {
+    padding-right: 0;
+    margin-top: 0;
+    width: 100%;
+}*/
+	.list-img ul li .pull-left a {
+		width: 300px;
+		height: 200px;
+		margin: 0 auto;
+	}
+	.list-img ul li .media-body {
+		padding: 0 8px 10px;
+	}
+	.people .people-item .title {
+		font-size: 22px;
+	}
+	.people-alumni ul li a {
+		font-size: 14px;
+	}
+	.people-key .title {
+		font-size: 22px;
+	}
+	.people-key .people-key-textbox .people-key-text h3 {
+		font-size: 17px;
+	}
+	.people-key .people-key-textbox .people-key-text {
+		padding: 0px 18px 8px;
+	}
+	.people-key {
+		margin: 20px 3%;
+	}
+	.publications ul li .media-body .xinxi span {
+		padding: 2px 5px 2px;
+		margin-right: 0px;
+		display: block;
+		margin-bottom: 5px;
+	}
+	.publications ul li .media-body .xinxi {
+		font-size: 12px;
+		margin: 8px 0;
+	}
+	.people-key .people-key-img {
+		height: 200px;
+	}
+	.people-alumni .title {
+		font-size: 22px;
+	}
+	.gallery ul {
+		padding: 0 5px;
+	}
+	.reseach-about .publications ul li {
+		padding: 12px 3px 12px 3px;
+	}
+	.reseach-about .publications ul li .pull-left a {
+		width: 120px;
+		height: 104px;
+	}
+
+.web-nav ul li a{
+    padding: 7px 0;
+}
+
+.web-nav.web-nav1 ul li a{
+          height: 110px;
+           line-height: 48px;
+       padding: 7px 0;
+}
+
+.web-nav ul li.bg_color a {
+    padding: 8px 0;
+}
+
+.web-nav ul li:hover a{
+    padding: 8px 0;
+}
+
+.current {
+    font-size: 18px;
+}
+
+.list-book ul li h5.media-heading {
+    font-size: 16px;
+    height: 18px;
+}
+
+.list-book ul li .pull-left-img {
+    width: 80px;
+    height: 104px;
+    margin-right: 3px;
+}
+
+.list-book ul li .abstract {
+    font-size: 13px;
+    line-height: 20px;
+    height: 80px;
+    margin: 4px 0 0;
+}
+
+.list-patent ul li {
+    padding: 8px 0;
+    margin-top: 2px;
+}
+
+.list-patent ul li a {
+    font-size: 13px;
+    padding-left: 5px;
+}
+
+.web-nav ul li a {
+		font-size: 12px;
+	}
+
+.web-nav {
+ height: 33px;
+}
+
+.location-teacher a.location-teacher-return {
+    font-size: 12px;
+}
+
+.location-teacher a {
+    font-size: 12px;
+}
+
+
+.location-teacher .location-home {
+    width: 13px;
+    margin-bottom: 3px;
+    margin-right: -4px;
+}
+.location-teacher{
+   margin-top: 57px;
+}
+.location-teacher .location-arrow {
+    margin: 0 0px 0px;
+    width: 5px;
+}
+
+.teacher-left .teacher-left-img {
+    width: 60%;
+    float: none;
+    margin: 0 20%;
+    height: 260px;
+    line-height: 250px;
+    margin-bottom: 15px;
+}
+.teacher-left-contact {
+    width: 100%;
+    float: none;
+   margin-bottom: 10px;
+
+}
+.teacher-left {
+    margin-bottom: 15px;
+}
+.teacher-right .v_news_content h2{
+   margin: 5px 0 10px;
+}
+
+.teacher-right .v_news_content h3{
+   margin: 5px 0 10px;
+}
+
+.location.navFix{
+   top: 57px;
+}
+
+.people-item-fix{
+  top: -138px;
+}
+
+.publications ul li .pull-left a {
+    margin-top: 32px;
+}
+
+/*.content-right-title .content-right-img {
+    height: 440px;
+}*/
+}
+
+@media screen and (max-width: 400px) {
+.content-right-title .content-right-img {
+    height: 190px;
+}
+}
+
+@media screen and (max-width: 390px) {
+/*.content-right-title .content-right-img {
+    height: 420px;
+}*/
+
+.content-right-title .content-right-img {
+    height: 170px;
+}
+}
+
+@media screen and (max-width: 380px) {
+	.current-swiper {
+		width: 260px;
+		height: 160px;
+	}
+	.swiper-button-prev {
+		background-size: 16px;
+	}
+	.swiper-button-next {
+		background-size: 16px;
+	}
+	#full-width-slider .rsGCaption {
+		top: 22%;
+	}
+	.publications-box ul li {
+		width: 80%;
+		margin-left: 10%;
+	}
+	.gallery ul li .gallery-img {
+		height: 165px;
+	}
+	.publications ul li .pull-left a {
+    width: 90px;
+    height: 77px;
+    margin-top: 52px;
+}
+	.publications ul li .media-body .media-heading {
+		font-size: 16px;
+		height: 34px;
+		margin-top: 5px;
+	}
+	.publications ul li .media-body .xinxi span {
+		padding: 1px 5px 1px;
+	}
+	.publications ul li .media-body .xinxi {
+		margin: 8px 0 0;
+	}
+	.publications ul li {
+		padding: 12px 0 11px;
+	}
+	/*.content-right-title .content-right-img {
+		height: 170px;
+	}*/
+
+/*.content-right-title .content-right-img {
+    height: 400px;
+}*/
+}
+
+@media screen and (max-width: 360px) {
+	#full-width-slider .rsGCaption a {
+		background-size: 19px;
+		font-size: 12px;
+		padding: 5px 0 5px 28px;
+	}
+	#full-width-slider .rsGCaption p {
+		margin-bottom: 12px;
+	}
+	.publications-box ul li {
+		width: 90%;
+		margin-left: 5%;
+	}
+	.banner-current {
+		font-size: 19px;
+	}
+	.banner-current p {
+		background-size: 14px;
+		margin: 2px 6px 12px;
+	}
+	.people-key .people-key-img {
+		height: 170px;
+	}
+
+/*.content-right-title .content-right-img {
+    height: 380px;
+}*/
+}
+
+@media screen and (max-width: 350px) {
+	.current-swiper {
+		width: 230px;
+		height: 142px;
+	}
+	/*.content-right-title .content-right-img {
+		height: 150px;
+	}*/
+
+#full-width-slider1 .rsArrowLeft{
+    top: 32%;
+}
+#full-width-slider1 .rsArrowRight {
+    top: 32%;
+}
+
+/*.content-right-title .content-right-img {
+    height: 360px;
+}*/
+}
+
+@media screen and (max-width: 340px) {
+/*.content-right-title .content-right-img {
+    height: 340px;
+}*/
+
+.content-right-title .content-right-img {
+    height: 150px;
+}
+}
+
+@media screen and (max-width: 320px) {}
